@@ -1,0 +1,5 @@
+red, r1, r2, r3, r4, h1, r5, r6, h3, r7, r8, h4, r9, r10
+orange, o1, o2, b3, h2, b4, b5, b6, h1, b7, b8, b9, b10
+blue, b1, b2, b3, h2, b4, b5, b6, h1, b7, b8, b9, b10
+brown, d1, d2, g3, h2, g4, h3, g5, g6, h4, g7, g8
+green, g1, g2, g3, h2, g4, h3, g5, g6, h4, g7, g8
