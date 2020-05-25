@@ -202,12 +202,12 @@ def run_test():
             previous_node = current_node
             current_node = next_node
             current_line = next_line
-            run_time += delay
-            # print("Current run time:", run_time)
             node_least_visited = min(nodes, key=lambda node: node.visits)
             node_least_visits = node_least_visited.visits
             if node_least_visits != 0:
                 break
+            run_time += delay
+            # print("Current run time:", run_time)
             # time.sleep(0.01)
         results = " " + str(run_time) + " time with path: " + str(route) + "\n"
         with open(r".vscode\tspsubway\musical-trains\tsp results.txt", "a") as results_file:
