@@ -1,36 +1,36 @@
-r1, dead, red
-r2, pass, red
-r3, pass, red
-r4, pass, red
-r5, pass, red
-r6, pass, red
-r7, pass, red
-r8, pass, red
-r9, pass, red
-r10, dead, red
-o1, dead, orange
-o2, pass, orange
-b1, dead, blue
-b2, pass, blue
-b3, hub, blue, orange
-b4, pass, blue, orange
-b5, pass, blue, orange
-b6, pass, blue, orange
-b7, pass, blue, orange
-b8, pass, blue, orange
-b9, pass, blue, orange
-b10, dead, blue, orange
-d1, dead, brown
-d2, pass, brown
-g1, dead, green
-g2, pass, green
-g3, hub, green, brown
-g4, pass, green, brown
-g5, pass, green, brown
-g6, pass, green, brown
-g7, pass, green, brown
-g8, dead, green, brown
-h1, hub, red, blue, orange
-h2, hub, blue, orange, green, brown
-h3, hub, red, green, brown
-h4, hub, red, green, brown
+r1, dead, 1, red
+r2, pass, 1, red
+r3, pass, 1, red
+r4, pass, 1, red
+r5, pass, 1, red
+r6, pass, 1, red
+r7, pass, 1, red
+r8, pass, 1, red
+r9, pass, 1, red
+r10, dead, 1, red
+o1, dead, 1, orange
+o2, pass, 1, orange
+b1, dead, 1, blue
+b2, pass, 1, blue
+b3, hub, 1, blue, orange
+b4, pass, 1, blue, orange
+b5, pass, 1, blue, orange
+b6, pass, 1, blue, orange
+b7, pass, 1, blue, orange
+b8, pass, 1, blue, orange
+b9, pass, 1, blue, orange
+b10, dead, 1, blue, orange
+d1, dead, 1, brown
+d2, pass, 1, brown
+g1, dead, 1, green
+g2, pass, 1, green
+g3, hub, 1, green, brown
+g4, pass, 1, green, brown
+g5, pass, 1, green, brown
+g6, pass, 1, green, brown
+g7, pass, 1, green, brown
+g8, dead, 1, green, brown
+h1, hub, 1, red, blue, orange
+h2, hub, 1, blue, orange, green, brown
+h3, hub, 1, red, green, brown
+h4, hub, 1, red, green, brown
